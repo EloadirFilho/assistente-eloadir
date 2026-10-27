@@ -1,0 +1,5 @@
+# O assistente roda em Linux (servidor). O Windows converteria para CRLF e
+# quebraria script .sh no servidor, sem erro na hora.
+* text=auto eol=lf
+*.sh  text eol=lf
+*.sql text eol=lf
