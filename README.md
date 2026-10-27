@@ -11,6 +11,13 @@ Obsidian, com leitura do sistema da empresa (ERP e CRM) e dos dados pessoais
 contratado. O plano está em [`PLANO.md`](PLANO.md), com as recomendações e o
 porquê de cada uma.
 
+## Onde fica a pasta
+
+Nos dois PCs, na **Área de Trabalho** (`Desktop/assistente-eloadir`), fora do
+Google Drive de propósito: o Drive sincronizando a pasta `.git` no meio de uma
+alteração foi um dos problemas registrados no README do CRM. O que mantém os
+computadores iguais é o GitHub (`git pull` / `git push`), não o Drive.
+
 ## Próximo passo
 
 Responder as 10 perguntas da seção 10 do `PLANO.md` (servidor, celular,
