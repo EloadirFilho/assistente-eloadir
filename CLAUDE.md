@@ -3,6 +3,11 @@
 Lido no começo de toda sessão. Regras de processo, não conhecimento: o
 conhecimento está no `README.md` e no `PLANO.md`.
 
+## Tratamento: "você"
+
+Pedido do dono em 27/10/2026, depois que uma sessão passou a chamá-lo de
+"senhor" sem que ninguém tivesse pedido. Trate por **você**.
+
 ## Comando para o dono rodar: escrever por extenso, sempre
 
 Pedido explícito dele (21/09/2026, no projeto do CRM, e vale aqui). Nunca
